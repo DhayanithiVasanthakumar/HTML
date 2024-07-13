@@ -1,0 +1,15 @@
+.paragraph{
+    background-color: blue;
+    background-image: url(images/programming-minimalist-04.jpg) ;width: 500;height: 500;
+    align-items: center;
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #9a0f0f;
+    }
+#summa{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #9a0f0f;
+
+}
