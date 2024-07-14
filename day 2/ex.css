@@ -1,0 +1,16 @@
+section:where(table,th,td,tr){
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+     }
+     .th, .td {
+        border: 1px solid #981212;
+        padding: 8px;
+        text-align: left;
+     }
+     .th {
+        background-color: #2f1995;
+     }
+}
+
